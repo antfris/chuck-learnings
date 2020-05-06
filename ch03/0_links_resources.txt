@@ -1,0 +1,15 @@
+Tutorial
+https://chuck.cs.princeton.edu/doc/learn/tutorial.html
+
+API Docs
+https://chuck.cs.princeton.edu/doc/program/ugen.html
+https://chuck.cs.princeton.edu/doc/program/stdlib.html
+
+Variables & data types
+https://chuck.cs.princeton.edu/doc/language/type.html
+
+Language Overview
+https://chuck.cs.princeton.edu/doc/language/overview.html
+
+Arrays
+https://chuck.cs.princeton.edu/doc/language/array.html

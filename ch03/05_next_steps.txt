@@ -1,0 +1,3 @@
+
+
+- work out how to get the frequency of a particular note.
